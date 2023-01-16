@@ -1,5 +1,3 @@
-# Welcome
-
 ## About Me
 
 ## Work History
