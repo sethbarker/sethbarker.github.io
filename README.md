@@ -1,5 +1,3 @@
-theme: dinky
-
 # Welcome
 
 ## About Me
