@@ -1,6 +1,6 @@
 theme: minima
 
-# Welcome
+# Welcome!
 
 ## About Me
 
