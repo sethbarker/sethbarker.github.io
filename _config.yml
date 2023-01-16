@@ -31,7 +31,7 @@ navigation:
     url: /work_history/
   - text: Projects
     url: /projects/
- - text: Blog
+  - text: Blog
     url: /blog/  
     
 # The shortname for your Disqus site to enable comments.
