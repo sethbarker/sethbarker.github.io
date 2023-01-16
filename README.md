@@ -1,1 +1,0 @@
-# sethbarker.github.io
