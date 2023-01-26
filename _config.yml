@@ -28,15 +28,13 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-
+  Home: "/"
+  About Me: "about"
+  # - text: Style Guide
+    # url: /style-guide/
+  # - text: Tags
+    # url: /tags/
+    
 # The shortname for your Disqus site to enable comments.
 disqus: sethbarker
 
@@ -47,35 +45,29 @@ accent_color: '#2d72d9'
 footer:
   content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
-  social_links: [
-            {
-                "label": "Github",
-                "url": "https://www.github.com/sethbarker",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/sethbarker",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/sab3x",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ]
+  
+  # Select your active Social Network Links.
+  # Uncomment the links you want to show in the footer and add your information to each link.
+  # You can reorder the items to define the link order.
+  # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+  social-network-links:
+ #  rss: false
+ #  email: "emailaddress"
+    github: sethbarker
+ #  twitter: yourname
+ #  reddit: yourname
+ #  google-plus: +yourname
+    linkedin: sethbarker
+ #  xing: yourname
+ #  stackoverflow: "yourname"
+ #  snapchat: yourname
+    instagram: sab3x
+ #  youtube: user/yourname
+ #  spotify: yourname
+ #  telephone: +1phonenumber
+ #  steam: yourname
+ #  twitch: yourname
+ #  yelp: yourname
 
 # Plugins
 plugins:
