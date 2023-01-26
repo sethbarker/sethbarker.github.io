@@ -53,3 +53,8 @@ $palette: (
 @import "site-footer";
 @import "animations";
 @import "prism";
+
+---
+---
+$fa-font-path: "fonts/font-awesome/";
+@import 'font-awesome';
