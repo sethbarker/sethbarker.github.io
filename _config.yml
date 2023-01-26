@@ -7,6 +7,10 @@
 # Site language
 lang: en-US
 
+# adding font awesome
+gems:
+  - jekyll-font-awesome-sass
+
 # Site title
 title: "Seth Barker"
 
