@@ -7,4 +7,4 @@ feature_image: images/about2.jpg
 
 **Under construction** 
 
-*Thank You for reading!*
+*Thank You for reading!!*
