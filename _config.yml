@@ -27,7 +27,8 @@ favicon: images/favicon.png
 google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
-navigation:
+# navigation:
+navbar-links:
   Home: "/"
   About Me: "about"
   # - text: Style Guide
@@ -46,28 +47,6 @@ footer:
   content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
   
-  # Select your active Social Network Links.
-  # Uncomment the links you want to show in the footer and add your information to each link.
-  # You can reorder the items to define the link order.
-  # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-  social-network-links:
- #  rss: false
- #  email: "emailaddress"
-    github: sethbarker
- #  twitter: yourname
- #  reddit: yourname
- #  google-plus: +yourname
-    linkedin: sethbarker
- #  xing: yourname
- #  stackoverflow: "yourname"
- #  snapchat: yourname
-    instagram: sab3x
- #  youtube: user/yourname
- #  spotify: yourname
- #  telephone: +1phonenumber
- #  steam: yourname
- #  twitch: yourname
- #  yelp: yourname
 
 # Plugins
 plugins:
