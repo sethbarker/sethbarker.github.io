@@ -24,13 +24,15 @@ url: "https://sethbarker.github.io"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "G-9NS91NVL6P"
 
 # Site navigation - each item must have a title and a url.
 # navigation:
-navbar-links:
-  Home: "/"
-  About Me: "about"
+navigation:
+  text: Home
+  url: /
+  text: About Me
+  url: /about/
   # - text: Style Guide
     # url: /style-guide/
   # - text: Tags
