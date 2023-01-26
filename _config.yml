@@ -47,6 +47,35 @@ accent_color: '#2d72d9'
 footer:
   content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
+  social_links: [
+            {
+                "label": "Github",
+                "url": "https://www.github.com/sethbarker",
+                "style": "link",
+                "has_icon": true,
+                "icon": "github",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/sethbarker",
+                "style": "link",
+                "has_icon": true,
+                "icon": "linkedin",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/sab3x",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ]
 
 # Plugins
 plugins:
