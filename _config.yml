@@ -18,7 +18,7 @@ description: "Welcome to my personal site!"
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://sethbarker.github.io/"
+url: "https://sethbarker.github.io"
 
 # Favicon
 favicon: images/favicon.png
