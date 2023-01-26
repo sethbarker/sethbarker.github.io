@@ -14,8 +14,6 @@ title: "Seth Barker"
 # A description of your site for meta tag, search engine results.
 description: "Welcome to my personal site!"
 
-# An image to feature on the website
-feature_image: images/kananaskis.jpg
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
