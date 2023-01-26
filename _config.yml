@@ -29,10 +29,10 @@ google_analytics: "G-9NS91NVL6P"
 # Site navigation - each item must have a title and a url.
 # navigation:
 navigation:
-  text: Home
-  url: /
-  text: About Me
-  url: /about/
+  - text: Home
+    url: /
+  - text: About Me
+    url: /about/
   # - text: Style Guide
     # url: /style-guide/
   # - text: Tags
