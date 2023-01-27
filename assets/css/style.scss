@@ -29,6 +29,10 @@ $font: (
   secondary: ("Noto Serif",Georgia,serif)
 );
 
+$fa-font-path: (
+   "fonts/font-awesome/"
+);
+
 // Palette.
 {% assign accent = site.accent_color | default: '#2d72d9' %}
 $palette: (
@@ -53,8 +57,9 @@ $palette: (
 @import "site-footer";
 @import "animations";
 @import "prism";
+@import 'font-awesome';
 
 ---
 ---
 $fa-font-path: "fonts/font-awesome/";
-@import 'font-awesome';
+
