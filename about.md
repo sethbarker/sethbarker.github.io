@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-feature_image: images/about2.jpg
+# feature_image: images/about2.jpg
 ---
 
 **Some highlights...**
