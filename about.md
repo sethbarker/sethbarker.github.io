@@ -2,6 +2,9 @@
 layout: page
 title: About Me
 ---
+
+<div style="margin:10px 0px 5px 0px;">
+  
 <img align="right" width="60%" height="60%" src="images/about2.jpg">
 
 **Some highlights...**
