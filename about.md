@@ -6,7 +6,7 @@ title: About Me
 
 **Some highlights...**
 
-<img align="right" width="45%" height="45%" src="images/about2.jpg">
+<img align="right" width="60%" height="60%" src="images/about2.jpg">
 
 👶 1985: Hello world! Grew up in Chester, VA \
 💕 2004: Met Heather while working at Pocahontas State Park \
