@@ -1,6 +1,6 @@
-# About Me
+# About Me #
 
-<img align="right" width="40%" height="40%" src="images/about2.jpg">
+<img align="right" width="60%" height="60%" src="images/about2.jpg">
 
 **Some highlights...** \
 👶 1985: Hello world! Grew up in Chester, VA \
