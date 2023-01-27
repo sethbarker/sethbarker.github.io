@@ -4,14 +4,17 @@ title: About Me
 feature_image: images/about2.jpg
 ---
 
-**Some highlights...** \
+**Some highlights...**
+
+<img align="right" width="40%" height="40%" src=images/about2.jpg>
+
 👶 1985: Hello world! Grew up in Chester, VA \
-💕 2004: Met Heather \
+💕 2004: Met Heather while working at Pocahontas State Park \
 🎓 2007: Graduated from the University of Virginia; Moved to Greenville, SC \
-🚐 2010: Moved to Charlotte, NC \
-🏠 2012: Moved to Richmond, VA \
+🚐 2010: Moved to Charlotte, NC to start a new job \
+🏠 2012: Moved back to Richmond \
 🏔️ 2017: Hiked in the Canadian Rockies \
-🇳🇱 2018: Saw the incredible Dutch countryside \
-🥐 2019: Ate all the pastries in Copenhagen \
-💍 2020: Married Heather \
+🇳🇱 2018: Experienced the Dutch countryside; Ate chocolate in Brussels \
+🥐 2019: Inhaled pastries & coffee in Copenhagen; All the small towns on Bornholm \
+💍 2020: Married Heather in Mathews, VA \
 🚴‍♂️ 2022: Biked from San Diego, CA ➡ St. Augustine, FL for charity
