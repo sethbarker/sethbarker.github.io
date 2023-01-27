@@ -12,4 +12,4 @@ feature_image: images/about2.jpg
 🚐 2010: Moved to Charlotte, NC \
 🏠 2012: Moved to Richmond, VA \
 💍 2020: Married Heather \
-🚴‍♂️ 2022: BikeWalkRVA Academy; Biked across the southern US for charity (San Diego ➡ St. Augustine)
+🚴‍♂️ 2022: BikeWalkRVA Academy; Biked from San Diego, CA ➡ St. Augustine, FL for charity
