@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About Me
-description: to be updated
+description: Here's a timeline of _some_ of the things that have shaped me..
 feature_image: images/about2.jpg
 ---
-
-**Here's a timeline of _some_ of the things that have shaped me:**
 <li><i class="fa fa-duotone fa-baby"></i>  1985: Hello world! Grew up in Chester, VA</li>
 * 2004: Met Heather
 * 2007: Graduated from the University of Virginia; Moved to Greenville, SC
