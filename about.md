@@ -1,9 +1,6 @@
----
-layout: page
-title: About Me
----
-  
-<img align="center" width="45%" height="45%" src="images/about2.jpg">
+<img align="right" width="40%" height="40%" src="images/about2.jpg">
+
+# About Me
 
 **Some highlights...**
 
