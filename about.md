@@ -1,9 +1,7 @@
+# About Me
 <img align="right" width="40%" height="40%" src="images/about2.jpg">
 
-# About Me
-
-**Some highlights...**
-
+**Some highlights...** \
 👶 1985: Hello world! Grew up in Chester, VA \
 💕 2004: Met Heather while working at Pocahontas State Park \
 🎓 2007: Graduated from the University of Virginia; Moved to Greenville, SC \
