@@ -4,7 +4,7 @@ title: About Me
 feature_image: images/about2.jpg
 ---
 
-**Some highlights...** 
+**Some highlights...** \
 👶 1985: Hello world! Grew up in Chester, VA \
 💕 2004: Met Heather \
 🎓 2007: Graduated from the University of Virginia; Moved to Greenville, SC \
