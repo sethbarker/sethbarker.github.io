@@ -1,8 +1,8 @@
 ---
 title: About Me
 layout: page
-image: ![about2](/images/about2.jpg width="40%" height="40%")
 ---
+  <img src="/images/about2.jpg" class="center" alt="Seth @ Emory Pass, NM" width="45%" height="45%" align="right">
 
 **Some highlights...** \
 👶 1985: Hello world! Grew up in Chester, VA \
