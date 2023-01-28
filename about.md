@@ -1,5 +1,8 @@
-
-# About Me
+---
+title: About Me
+layout: null
+image: ![about2](about2.jpg width="40%" height="40%")
+---
 
 <p align="center">
   <img align="center" width="40%" height="40%" src="images/about2.jpg">
