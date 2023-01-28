@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: null
+layout: page
 image: ![about2](about2.jpg width="40%" height="40%")
 ---
 
