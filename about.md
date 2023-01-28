@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: page
-image: ![about2](/assets/images/about2.jpg width="40%" height="40%")
+image: ![about2](/images/about2.jpg width="40%" height="40%")
 ---
 
 **Some highlights...** \
