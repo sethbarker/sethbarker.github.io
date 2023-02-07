@@ -7,5 +7,4 @@ feature_image: images/kananaskis.jpg
 tags: [outside, activelifestyle]
 ---
 
-
-# Under Construction
+Under Construction
