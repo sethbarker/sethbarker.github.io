@@ -13,6 +13,8 @@ tags: [outside, creating-change]
 
 &emsp; I consider myself ‘outdoorsy’; someone who has enjoyed the outdoors throughout my life.  When I reflect my happiest times, memories of youth soccer games, overnight hiking trips, and canoe trips come to mind.  My favorite travel has been to destinations that center around multi-day outdoor adventures. Writing this though, I’m reminded of the reality that I have not prioritized getting outside enough.  Just as I can fondly recall a hike, I can also remember countless times I sat on the couch scrolling on my phone.
 
+<!--more-->
+
 **_Getting Motivated..._** \
 &emsp; I remind myself of the practical benefits that simply getting outside can bring to someone.  Countless studies and [articles](https://www.hsph.harvard.edu/news/hsph-in-the-news/spend-time-outdoors-itll-improve-your-health-say-experts/) can be found to affirm the premise that outdoor activity positively impacts mental and physical wellness.  And though I am no scientific researcher, I refer back to the ‘happy memories’ I mentioned earlier as sufficient (personal) evidence.  \
 &emsp; I also have to be honest with myself about the types of experiences I want to have, and how those experiences shape how I think about myself.  Over the past several months, when faced with small choices in my daily life, I’ve often asked myself: “does it bring you joy?”  I’ve borrowed this question from the Danish concept of hygge, but found it helps guide me towards the activities I want to do.  \
