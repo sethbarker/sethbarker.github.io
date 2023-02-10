@@ -27,7 +27,7 @@ layout: default
       <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more-link">Continue reading &rarr;</a>
       </p>
       {% else %}
-      {{ post.content }}
+      {{ post.content | truncatewords: 60 }}
       {% endif %}
     </div><!-- .post-content -->
   </article><!-- .post -->
