@@ -17,7 +17,6 @@ title: "Seth Barker"
 # A description of your site for meta tag, search engine results.
 description: "Welcome to my site! I'll use this space to post personal interest articles. Find the most recent articles below, or view olders articles in the 'Article Archive.'"
 
-
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
