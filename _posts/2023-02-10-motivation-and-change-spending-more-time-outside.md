@@ -7,8 +7,8 @@ feature_image: images/kananaskis.jpg
 tags: [outside, creating-change]
 ---
 
-> <p align="center"><i>“In the presence of nature, a wild delight runs through the man, in spite of real sorrows.”<br>
-> –Ralph Waldo Emerson</i></p>
+> <p align="center"><i>“In the presence of nature, a wild delight runs through the man, in spite of real sorrows.”</i><br>
+> –Ralph Waldo Emerson</p>
 
 
 &emsp; I consider myself ‘outdoorsy’; someone who has enjoyed the outdoors throughout my life.  When I reflect my happiest times, memories of youth soccer games, overnight hiking trips, and canoe trips come to mind.  My favorite travel has been to destinations that center around multi-day outdoor adventures. Writing this though, I’m reminded of the reality that I have not prioritized getting outside enough.  Just as I can fondly recall a hike, I can also remember countless times I sat on the couch scrolling on my phone.
