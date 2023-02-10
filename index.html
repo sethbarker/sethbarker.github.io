@@ -10,7 +10,7 @@ layout: default
       <time class="post-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{post.date | date: "%B %-d, %Y" }}</time>
       <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{post.title}}</a></h2>
       {% if page.subtitle %}
-      <h3 class="post-subtitle">| {{page.subtitle}}</h3>
+      <h3 class="post-subtitle" style="color: gray">{{page.subtitle}}</h3>
       {% endif %}
       <div class="post-meta">
         By <span class="post-author">{{ site.data.author.name }}</span>{% if post.tags.size > 0 %}<span
