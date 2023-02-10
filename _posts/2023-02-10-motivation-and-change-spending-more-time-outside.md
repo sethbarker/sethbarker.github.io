@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Motivation & Change"
-description: "Spending more time outside"
+subtitle: "Spending more time outside"
 date: 2023-02-10
 feature_image: images/kananaskis.jpg
 tags: [outside, creating-change]
